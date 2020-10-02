@@ -13,4 +13,6 @@ For the latter, I used the Java programming which I am comfortable with. A proth
 The Mathematical aspect included just a problem to determine the minimum value of a particular function. This was simply computed using the differential calculus. The first differential was computed first and used to determine the values of the independent variable at the turning points, by making the first differential equal to zero.
 A search method was then used to determine which of these optimum values gives the smaller value of the function and this gave the minimum value of the function.
 
+Attached also is a copy of my CV to serve as a biodata for reference purposes. All necessary information about me can be found in it.
+
 
